@@ -31,10 +31,10 @@ Additionally, the dataset has been assigned a DOI for easier citation and refere
 In the HHd-Ethiopic dataset, we have included metadata regarding the human-level performance predicted by individuals for the test sets. This metadata provides insights into the expected performance-level that humans can achieve in historical Ethiopic text-image recognition tasks.
 
 #### Test Set I  - Human-Level Performance
-For test set I, a group of 9 individuals was presented with a random subset of the dataset. They were asked to perform Ethiopic text-image recognition and provide their best efforts to transcribe the handwritten texts. The results were collected and stored in a CSV file, [Test-I-human_performance](https://github.com/bdu-birhanu/HHD-Ethiopic/blob/main/Dataset/human-level-predictions/6375_new_all.csv) included in the dataset.
+For test set I, a group of 9 individuals was presented with a random subset of the dataset. They were asked to perform Ethiopic text-image recognition and provide their best efforts to transcribe the handwritten texts. The results were collected and stored in a CSV file, [Test-I-human_performance](https://github.com/ethopic/hhd-ethiopic-I/blob/main/Dataset/human-level-predictions/6375_new_all.csv) included in the dataset.
 
 #### Test Set II - Human-Level Performance
-Test set II which was prepared exclusively from Ethiopic historical handwritten documents dated in the 18th century. A different group  of 4 individuals was given this subset for evaluation.  The human-level performance predictions for this set are also stored in a separate CSV file, [Test-II_human_performance](https://github.com/bdu-birhanu/HHD-Ethiopic/blob/main/Dataset/human-level-predictions/15935_new_all.csv)
+Test set II which was prepared exclusively from Ethiopic historical handwritten documents dated in the 18th century. A different group  of 4 individuals was given this subset for evaluation.  The human-level performance predictions for this set are also stored in a separate CSV file, [Test-II_human_performance](https://github.com/ethopic/hhd-ethiopic-I/blob/main/Dataset/human-level-predictions/15935_new_all.csv)
 
 Please refer to the respective CSV files for detailed information on the human-level performance predictions. Each CSV file contains the necessary metadata, including the image filenames, groind-truth and the corresponding human-generated transcriptions.
 
