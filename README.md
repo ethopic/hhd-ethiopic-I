@@ -37,7 +37,8 @@ To Prediction/test
 ```markdown
 $ python3 test_model_plain_CTC.py
 ``` 
-Alternatively, you can also run the testing code demonstration in Google Colab directly [![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/ethopic/hhd-ethiopic-I/assets/129184730/e0073889-4fdd-4a55-868e-c8ad58569b85)](https://github.com/ethopic/hhd-ethiopic-I/main/Test_HPopt-Attn-CTC.ipynb)
+Alternatively, you can also run the testing code demonstration in Google Colab directly 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ethopic/hhd-ethiopic-I/blob/main/Test_HPopt_Attn_CTC.ipynb)
 
 ***Please note that the two Colab code provided here are **the HPopt-Attn-CTC **implementation** as a** sample demo.**
 
