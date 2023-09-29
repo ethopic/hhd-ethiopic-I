@@ -30,15 +30,15 @@ To Train the model from scratch
 ```markdown
 $ python3 train_model_plain_CTC.py
 ```
-Alternatively, you can also run  the training code demonstration in Google Colab directly [![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667]()](https://github.com/ethopic/hhd-ethiopic-I/blob/main/train_HPopt_Attn_CTC.ipynb).
+Alternatively, you can also run  the training code demonstration in Google Colab directly ![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/ethopic/hhd-ethiopic-I/assets/129184730/22c02756-aadc-4414-89e7-36ea97f99af3)
 
 To Prediction/test
 ```markdown
 $ python3 test_model_plain_CTC.py
 ``` 
-Alternatively, you can also run the testing code demonstration in Google Colab directly [![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/c13c4086-8278-47d4-8bde-ef19d3204439)](https://github.com/bdu-birhanu/HHD-Ethiopic/blob/main/Test_HPopt-Attn-CTC.ipynb).<br>
+Alternatively, you can also run the testing code demonstration in Google Colab directly ![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/ethopic/hhd-ethiopic-I/assets/129184730/e0073889-4fdd-4a55-868e-c8ad58569b85)
 
-***Please note that the two Colab demos provided here are **the HPopt-Attn-CTC **implementation** as a** sample demo.**
+***Please note that the two Colab code provided here are **the HPopt-Attn-CTC **implementation** as a** sample demo.**
 ### Sample testing results
 Sample results and Character Error Rate (CER) per line are shown below:
 | <sub>Image</sub>| <sub>Ground-truth</sub> | <sub> Prediction </sub>| <sub> Edit Distance</sub> | <sub>CER/Line (100%) </sub>|
