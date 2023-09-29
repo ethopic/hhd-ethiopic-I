@@ -55,11 +55,8 @@ We welcome contributions and feedback from the research community to further enh
 
 
 
-### Acknowledgments
-We would like to express our gratitude to the Ethiopian National Archive and Library Agency (ENALA) for providing access to the historical handwritten documents used in creating the HHD-Ethiopic dataset. We are also grateful to ICT4D research center, Bahir Dar Institute of Technology, and ChaLearn for their funding. Furthermore, we would like to acknowledge the support and contributions of the annotators who made this dataset possible.
-
 
 ### License
-![cc](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/49b9e794-f526-4f85-96c0-30b842c9abd0)This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
