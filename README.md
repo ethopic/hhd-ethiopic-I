@@ -30,7 +30,8 @@ To Train the model from scratch
 ```markdown
 $ python3 train_model_plain_CTC.py
 ```
-Alternatively, you can also run  the training code demonstration in Google Colab directly [![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/ethopic/hhd-ethiopic-I/assets/129184730/22c02756-aadc-4414-89e7-36ea97f99af3)](https://github.com/ethopic/hhd-ethiopic-I/main/train_HPopt_Attn_CTC.ipynb)
+Alternatively, you can also run  the training code demonstration in Google Colab directly 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ethopic/hhd-ethiopic-I/blob/main/train_HPopt_Attn_CTC.ipynb)
 
 To Prediction/test
 ```markdown
